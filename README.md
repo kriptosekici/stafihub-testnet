@@ -1,4 +1,4 @@
-# <h1 align="center">StaFiHub Public Testnet 3</h1>
+# <h1 align="center">StaFiHub Public Testnet 3</h1>...
 
 <h1 align="center">Selamlar herkese, bugün uzun süredir içinde olduğumuz StaFiHub'un public validator testine katılacağız, daha önce katılmadıysanızda dahil olabilirsiniz. </h1>
 
